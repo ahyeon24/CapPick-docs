@@ -1,4 +1,7 @@
 # CapPick-docs
+
+**캡픽: 쌓아 둔 스크린샷을 AI가 정리하고, 말로 검색해 다시 찾는 아이폰 앱.**
+
 캡픽 기획·설계 문서. 코드(`CapPick-ios`, `CapPick-server`)의 기준이 되는 사양이 여기 있다.
 
 - [기획·기능명세서](cappick-plan-functional-spec-v0.11.md)
